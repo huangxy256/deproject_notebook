@@ -7,7 +7,7 @@ The code are organized to match with figure numbers in the paper draft.
 
 To run these notebooks you need: 
 
-- `deproject <https://github.com/huangxy256/deproject.git>`_
+- `deproject <https://github.com/huangxy256/deproject.git>` https://github.com/huangxy256/deproject.git
 
 
 
